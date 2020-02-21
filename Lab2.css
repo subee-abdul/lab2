@@ -1,0 +1,11 @@
+#wrapper{width: 100%;height: 100%; }
+					#container{width: 800px;height: 1000px;margin: 3% 20% 0px 20%;}
+					#slim{float: left;width: 30px;height: 320px;background-color: palegreen;}
+					#big{float: right;width: 770px;height: 1000px;background-color: white;}
+					#bluec{background-color: lightblue;width: 800px;height: 60px } 
+					#pinkc{background-color: pink;width: 800px;height: 20px }
+					.big{position: absolute;margin: auto;color: white;max-width: 780px;top: 35%;text-align: center;left: 30%;right: 30%;border: 0;}
+					p{
+						margin-top:-1.5%;
+						color:lightblue;
+						}
